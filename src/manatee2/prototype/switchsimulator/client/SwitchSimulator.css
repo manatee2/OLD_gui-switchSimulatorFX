@@ -1,0 +1,65 @@
+.mainPanel
+{
+    -fx-background-color: lightgray;
+}
+
+.gridLabel
+{
+    -fx-font-size: 12.0px;
+    -fx-font-weight: bold;
+}
+
+.gridSeparator
+{
+    -fx-background-color: black;
+}
+
+.switchButton
+{
+    -fx-text-fill: black;
+    -fx-background-color: lightgray;
+    -fx-border-color: black;
+    -fx-border-radius: 5.0;
+    -fx-padding: 6.0 6.0 6.0 6.0;
+    -fx-pref-width: 40.0;
+    -fx-pref-height: 30.0
+}
+
+.switchButtonConnected
+{
+    -fx-text-fill: black;
+    -fx-background-color: #3e9c1c;
+    -fx-border-color: black;
+}
+
+.switchButtonDisconnected
+{
+    -fx-text-fill: black;
+    -fx-background-color: #e31414;
+    -fx-border-color: black;
+}
+
+.switchButtonHighlighted
+{
+    -fx-text-fill: black;
+    -fx-background-color: #f2fa05;
+    -fx-border-color: black;
+}
+
+.switchButtonSelected
+{
+    -fx-text-fill: black;
+    -fx-background-color: #7ebcea;
+    -fx-border-color: black;
+}
+
+.controlButton
+{
+    -fx-text-fill: black;
+    -fx-background-color: lightgray;
+    -fx-border-color: black;
+    -fx-border-radius: 5.0;
+    -fx-padding: 6.0 6.0 6.0 6.0;
+    -fx-pref-width: 90.0;
+    -fx-pref-height: 20.0
+}
